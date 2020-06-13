@@ -1,20 +1,27 @@
-# SHOP EQUAL
+## Shop Equal
 This project folder provides a description of the Shop Equal Project
 
 
-# ABOUT SHOP EQUAL
+### About
+
+
+### Team
+TODO
 
 
 
-# TEAM
+### Architectual Overview
+TODO
 
 
 
 
-# ARCHITECTURAL OVERVIEW
+### How to Contribute 
+TODO
 
 
 
 
-# HOW TO CONTRIBUTE TO SHOP EQUAL
 
+### How to use our API
+TODO
