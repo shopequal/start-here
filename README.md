@@ -19,7 +19,7 @@ TODO
 TODO
 
 
-### How to Contribute to the Shop Equal API
+### How to Contribute to the Shop Equal Project
 TODO
 
 
