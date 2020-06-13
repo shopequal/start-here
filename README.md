@@ -15,13 +15,14 @@ TODO
 
 
 
+### How to the Shop Equal API
+TODO
 
-### How to Contribute 
+
+### How to Contribute to the Shop Equal API
 TODO
 
 
 
 
 
-### How to use our API
-TODO
