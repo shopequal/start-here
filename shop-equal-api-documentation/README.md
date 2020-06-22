@@ -11,7 +11,6 @@ The shop equal api provides ....
 Clone the shop-equal-api-documentation repo
 ```
 git clone https://github.com/shopequal/shop-equal-api-documentation.git
-
 ```
 cd into the directory
 ```

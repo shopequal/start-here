@@ -4,7 +4,7 @@ This project folder provides a description of the Shop Equal Project
 The Getting Started repo will show you how to get the shop equal application running. 
 
 ### Prerequisites
-* Install docker
+* Install Docker
   - [Install Docker Desktop on Mac](https://docs.docker.com/docker-for-mac/install/)
   - [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
   - [Install Docker Desktop on Linux](https://docs.docker.com/engine/install/)
@@ -14,10 +14,9 @@ The Getting Started repo will show you how to get the shop equal application run
 * [Learn Docker & Containers using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/docker)
 
 ### Deployment Methods
-* Docker - Work in PRogress
+* Docker - Work in Progress
 * Podman - Pending
-* OpenShift - Pending
-* Kubernetes - Pending 
+* OpenShift/Kubernetes - Pending
 
 ### shop-equal-api-documentation
 [shop-equal-api-documentation](shop-equal-api-documentation/)
