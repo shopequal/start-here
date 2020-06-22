@@ -1,6 +1,27 @@
 ## Shop Equal
 This project folder provides a description of the Shop Equal Project
 
+The Getting Started repo will show you how to get the shop equal application running. 
+
+### Prerequisites
+* Install docker
+  - [Install Docker Desktop on Mac](https://docs.docker.com/docker-for-mac/install/)
+  - [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
+  - [Install Docker Desktop on Linux](https://docs.docker.com/engine/install/)
+
+### Learn Docker 
+* [LearnDocker.online](https://learndocker.online/)
+* [Learn Docker & Containers using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/docker)
+
+### Deployment Methods
+* Docker - Work in PRogress
+* Podman - Pending
+* OpenShift - Pending
+* Kubernetes - Pending 
+
+### shop-equal-api-documentation
+[shop-equal-api-documentation](shop-equal-api-documentation/)
+
 
 ### About
 TODO
@@ -21,8 +42,3 @@ TODO
 
 ### How to Contribute to the Shop Equal Project
 TODO
-
-
-
-
-
