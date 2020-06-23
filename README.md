@@ -21,6 +21,8 @@ The Getting Started repo will show you how to get the shop equal application run
 ### shop-equal-api-documentation
 [shop-equal-api-documentation](shop-equal-api-documentation/)
 
+### shop-equal-frontend
+[shop-equal-frontend](shop-equal-frontend/)
 
 ### About
 TODO
