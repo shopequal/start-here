@@ -15,7 +15,7 @@ git clone https://github.com/tosin2013/start-here.git
 
 Cd into shop-equal-frontend folder
 ```
-cd  shop-equal-frontend
+cd  start-repo/shop-equal-frontend
 ```
 
 Clone shop-equal-frontend repo
