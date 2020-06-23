@@ -8,6 +8,11 @@ The shop equal frontend consists of ...
 
 ## Docker Quick Start for developers
 
+git clone start-here repo
+```
+git clone https://github.com/tosin2013/start-here.git
+```
+
 Cd into shop-equal-frontend folder
 ```
 cd  shop-equal-frontend
