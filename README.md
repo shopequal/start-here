@@ -5,7 +5,7 @@ This project folder provides a description of the Shop Equal Project
 The Getting Started repo will provide an overview of the project, and show you how to get the shop equal application running.
 
 
-### About
+## About
 
 Shop equal is an open source project that provides a public API of Black Owned Businesses, as well as a website where
 you can browse these businesses as well.
@@ -20,7 +20,7 @@ Our goals are to:
 - As an open source project allow interested developers to contribute code to this project.
 
 
-### Architectual Overview
+## Architectual Overview
 
 Our application consists of:
 
@@ -71,13 +71,14 @@ download the dependencies, libraries and other parts associated with it, docker 
 - Podman - Pending
 - OpenShift/Kubernetes - Pending
 
+#### shop-equal-frontend
+
+Once you have downloaded Docker, go here: [shop-equal-frontend](shop-equal-frontend/)
+
+
 #### shop-equal-api-documentation
 
 [shop-equal-api-documentation](shop-equal-api-documentation/)
-
-##### shop-equal-frontend
-
-Once you have downloaded Docker, go here: [shop-equal-frontend](shop-equal-frontend/)
 
 
 ### How to Contribute to the Shop Equal Project Front End
