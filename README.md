@@ -37,35 +37,35 @@ Backend:
 Website: www.shop-equal.netlify.app
 
 
-#### Running the Front End Locally:
+### Running the Front End Locally:
 
-##### Prerequisites
+#### Prerequisites
 
 - Install Node.js : [Install Node.js](https://nodejs.org/en/download/)
 - Clone the Front End Repository (shop-equal-frontend) : ```git clone https://github.com/shopequal/shop-equal-frontend```
 - Check out the available issues: https://github.com/shopequal/shop-equal-frontend/issues
 
 
-#### Run the Front End Using Docker:
+### Run the Front End Using Docker:
 
-##### What is Docker?
+#### What is Docker?
 
 Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and deploy it as one package. If you an unsure if your computer can
 download the dependencies, libraries and other parts associated with it, docker allows you to run the application in an isolated environment on your computer.
 
-##### Prerequisites
+#### Prerequisites
 
 - Install Docker
   - [Install Docker Desktop on Mac](https://docs.docker.com/docker-for-mac/install/)
   - [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
   - [Install Docker Desktop on Linux](https://docs.docker.com/engine/install/)
 
-##### Learn Docker
+#### Learn Docker
 
 - [LearnDocker.online](https://learndocker.online/)
 - [Learn Docker & Containers using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/docker)
 
-##### Deployment Methods
+#### Deployment Methods
 
 - Docker - Work in Progress
 - Podman - Pending
